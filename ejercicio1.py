@@ -3,6 +3,10 @@
 """
 Este es un 
 comentario
-en varias lineas 
+en varias lineas
 """
 print("Hola Python")
+print('Hola Python')
+
+
+
