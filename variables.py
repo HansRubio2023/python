@@ -27,3 +27,16 @@ print("Este es el valor de la variable:", my_complex_variable)
 #Variables en una sola linea
 nombre, apellido, alias, edad = "Hans", "Rubio", "Docente", 38
 print("Mi nombre es: ",nombre, "Mi apellido es: ",apellido, "Mi alias: ",alias, "Miedad es: ",edad)
+
+#Teclado por pantalla
+
+nombre = input("¿Cuál es tu nombre?: ")
+edad = input("¿Cuántos años tienes?: ")
+
+print(nombre)
+print(edad)
+
+# Cambiamos el tipo a la variable
+direccion: str = "Mi dirección"
+direccion: int = 32
+print(direccion)
