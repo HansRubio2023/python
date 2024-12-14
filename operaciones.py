@@ -42,3 +42,4 @@ print(letters)
 # Cuenta los contenidos en una lista
 letters = ['a', 'b', 'c', 'd']
 print(len(letters))
+
