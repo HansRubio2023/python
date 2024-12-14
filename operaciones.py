@@ -38,3 +38,7 @@ print(letters)
 # Ahora a eliminarlos
 letters[2:5] = []
 print(letters)
+
+# Cuenta los contenidos en una lista
+letters = ['a', 'b', 'c', 'd']
+print(len(letters))
